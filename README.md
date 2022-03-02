@@ -63,7 +63,7 @@ Checkout Page Sparkle Shop
 
 <br>
 
-Success Page Sparkle Shop
+Success Payment Page Sparkle Shop
 =======================
 
 ![Frame 4](https://user-images.githubusercontent.com/65702027/156356714-5961468f-991f-46da-83a5-9d8f6f4348ad.png)
