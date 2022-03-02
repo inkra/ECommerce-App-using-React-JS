@@ -1,8 +1,6 @@
 # ECommerce-App-using-React-JS
 ECommerce App using React JS and Redux with Using Fetch API to Get Products Data
 
-Node React online store app with dummy data
-
 https://fakestoreapi.com/products
 
 ### **Fitur Sparkle Shop Website**
